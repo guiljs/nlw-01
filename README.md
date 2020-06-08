@@ -1,5 +1,5 @@
 # nlw-01
-Projeto desenvolvido na Next Level Week #01
+Projeto desenvolvido na Next Level Week #01 pela excelentemente ministrada pela RocketSeat https://rocketseat.com.br/ instrutor Diego.  
 
 Semana de imersão nas tecnologias React, React Native, Typescript, NodeJs, Express e Sqlite.
 
